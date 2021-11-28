@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @meltemergul
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c++
+- 📫 How to reach me meltemergul34@gmail.com
