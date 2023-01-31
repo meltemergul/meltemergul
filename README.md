@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @meltemergul
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++,python
+- 🌱 I’m currently learning Pyhton and English
 - 📫 How to reach me meltemergul34@gmail.com
