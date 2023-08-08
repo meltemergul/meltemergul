@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @meltemergul
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning SQL and English
+- 🌱 I’m currently learning React-Native
 - 📫 How to reach me meltemergul34@gmail.com
