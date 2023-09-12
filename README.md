@@ -1,9 +1,8 @@
 <h3>- 👋 Hi, I’m meltemergul</h3>
 <h3>- 👀 I’m interested in coding</h3>
-<h3>- 🌱 I’m currently learning React-Native</h3>
 <h3>- 📫 How to reach me meltemergul34@gmail.com</h3>
 
-## Connect with me
+## 🌐 Connect with me
 <p align="left">
 <a href="https://twitter.com/meltooom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meltemergul" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/meltem-ergül/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meltemergul" height="30" width="40" /></a>
