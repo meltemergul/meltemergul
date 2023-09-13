@@ -1,5 +1,6 @@
+## ✨ About
 <h3>- 👋 Hi, I’m meltemergul</h3>
-<h3>- 👀 I’m interested in coding</h3>
+<h3>- 👀 Studying Information Systems Engineering at Sakarya University.</h3>
 <h3>- 📫 How to reach me meltemergul34@gmail.com</h3>
 
 ## 🌐 Connect with me
