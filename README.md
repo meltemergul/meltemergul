@@ -24,4 +24,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=meltemergul&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=meltemergul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=meltemergul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meltemergul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
