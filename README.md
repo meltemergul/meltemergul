@@ -5,7 +5,6 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://twitter.com/meltooom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meltemergul" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/meltem-ergül/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meltemergul" height="30" width="40" /></a>
 </p>
 
