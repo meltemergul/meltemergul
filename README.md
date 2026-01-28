@@ -1,6 +1,6 @@
 ## ✨ About Me
 <h3>- 👋 Hi, I’m meltemergul</h3>
-<h3>- 👀 Information Systems Engineering</h3>
+<h3>- 👀 I am developing myself in React Native and .NET.</h3>
 <h3>- 📫 How to reach me meltemergul34@gmail.com</h3>
 
 ## 🌐 Connect with me
