@@ -15,7 +15,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into func
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/meltem-ergül/" target="_blank">
+  <a href="https://www.linkedin.com/in/meltemergul/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:meltemergul34@gmail.com">
