@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Meltem Taşkıran
+# Meltem Jülide Taşkıran
 
 💻 Software Developer | 📱 Mobile App Development | 🌐 Backend Development
 
